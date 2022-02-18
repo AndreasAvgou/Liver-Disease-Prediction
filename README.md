@@ -1,4 +1,4 @@
-## Liver-Disease-Prediction
+## Liver Disease Prediction
 
 ```
 Code : Liver_Disease_Prediction.ipynb
